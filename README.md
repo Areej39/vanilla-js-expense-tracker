@@ -28,13 +28,13 @@ A simple and responsive expense tracker application built with HTML, CSS, and Va
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Areej39/vanilla-js-expense-tracker
 ```
 
 2. Open the project folder
 
 ```bash
-cd expense-tracker
+cd vanilla-js-expense-tracker
 ```
 
 3. Open `index.html` in your browser
@@ -42,7 +42,7 @@ cd expense-tracker
 ## Project Structure
 
 ```
-expense-tracker/
+vanilla-js-expense-tracker/
 │
 ├── index.html
 ├── style.css
