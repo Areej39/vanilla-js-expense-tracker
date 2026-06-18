@@ -50,6 +50,7 @@ vanilla-js-expense-tracker/
 ├── index.html
 ├── style.css
 ├── script.js
+├── README.md
 └── screenshot.png
 ```
 
