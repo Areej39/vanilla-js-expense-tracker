@@ -66,3 +66,8 @@ vanilla-js-expense-tracker/
 - Click **Cancel Edit** to exit edit mode without saving.
 - Click **Delete** to remove a transaction.
 - Balance, income, and expense totals update automatically after every change.
+
+## Live Demo
+
+https://areej39.github.io/vanilla-js-expense-tracker/
+
